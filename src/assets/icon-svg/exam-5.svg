@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="考试管理-7月27日" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="4-1考试管理" transform="translate(-691.000000, -242.000000)" stroke="#808080">
+            <g id="编组-11" transform="translate(320.000000, 192.000000)">
+                <g id="创建人icon" transform="translate(371.000000, 50.000000)">
+                    <path d="M16,16 L4,16 C4,12.687 6.687,10 10,10 C13.313,10 16,12.687 16,16 Z" id="Stroke-1"></path>
+                    <path d="M13,7 C13,8.657 11.657,10 10,10 C8.343,10 7,8.657 7,7 C7,5.343 8.343,4 10,4 C11.657,4 13,5.343 13,7 Z" id="Stroke-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="成绩分析-8月31日" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="贰-3-4-1成绩分析-知识点能力点分析-空页" transform="translate(-1001.000000, -1484.000000)">
+            <g id="编组-10备份-6" transform="translate(995.000000, 1478.000000)">
+                <g id="选中icon" transform="translate(6.000000, 6.000000)">
+                    <path d="M0,0 L16,0 C18.209139,-4.05812251e-16 20,1.790861 20,4 L20,16 C20,18.209139 18.209139,20 16,20 L0,20 L0,20 L0,0 Z" id="select"></path>
+                    <polyline id="蒙版" stroke="#808080" transform="translate(9.877250, 10.085401) scale(-1, 1) rotate(-270.000000) translate(-9.877250, -10.085401) " points="4 7 9.87725021 13.1708028 15.7545004 7"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

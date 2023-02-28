@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="考试管理-7月27日" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-1考试管理" transform="translate(-1477.000000, -202.000000)">
+            <g id="编组-11" transform="translate(320.000000, 192.000000)">
+                <g id="考试进程icon备份-3" transform="translate(1157.000000, 10.000000)">
+                    <rect id="矩形" x="0" y="0" width="20" height="20"></rect>
+                    <g id="编组" transform="translate(4.000000, 3.000000)">
+                        <line x1="0" y1="2" x2="12" y2="2" id="Stroke-1" stroke="#808080" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="0" y1="12" x2="12" y2="12" id="Stroke-3" stroke="#808080" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="0" y1="7" x2="12" y2="7" id="Stroke-5" stroke="#808080" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <path d="M10,2 C10,3.104 9.104,4 8,4 C6.896,4 6,3.104 6,2 C6,0.896 6.896,0 8,0 C9.104,0 10,0.896 10,2" id="Fill-7" fill="#808080"></path>
+                        <path d="M10,12 C10,13.104 9.104,14 8,14 C6.896,14 6,13.104 6,12 C6,10.896 6.896,10 8,10 C9.104,10 10,10.896 10,12" id="Fill-9" fill="#808080"></path>
+                        <path d="M5,7 C5,8.104 4.104,9 3,9 C1.896,9 1,8.104 1,7 C1,5.896 1.896,5 3,5 C4.104,5 5,5.896 5,7" id="Fill-11" fill="#808080"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

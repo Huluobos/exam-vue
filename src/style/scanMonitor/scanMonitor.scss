@@ -1,0 +1,170 @@
+.title-style {
+  width: 1320px;
+  height: 36px;
+  font-size: 16px;
+  font-family: MicrosoftYaHei-Bold, MicrosoftYaHei;
+  font-weight: bold;
+  color: #202020;
+  line-height: 22px;
+}
+
+.charts-class {
+  width: 630px;
+  height: 200px;
+  background: #F8FBFF;
+}
+
+.margin-top14 {
+  margin-top: 14px;
+}
+.margin-left25 {
+  margin-left: 25px;
+}
+.margin-left20 {
+  margin-left: 20px;
+}
+
+.button-style {
+  font-size: 14px;
+  font-family: MicrosoftYaHei-Bold, MicrosoftYaHei;
+  font-weight: bold;
+  line-height: 22px;
+  width: 120px;
+  height: 40px;
+  border-radius: 10px 10px 0 0;
+  margin-left: 0;
+  border: 0;
+  background-color: #4381E5;
+  color: #ffffff;
+}
+.button-style1 {
+  font-size: 14px;
+  font-family: MicrosoftYaHei-Bold, MicrosoftYaHei;
+  font-weight: bold;
+  line-height: 22px;
+  width: 120px;
+  height: 40px;
+  border-radius: 10px 10px 0 0;
+  margin-left: 0;
+  border: 0;
+  background-color: #ffffff;
+  color: #808080;
+}
+.line {
+  border-bottom: 1px solid #D3E0F4;
+}
+.el-table__header tr {
+  background-color: #D3E0F4;
+}
+.chart-table{
+  margin-top: 35px;
+  margin-left: 40px;
+}
+.chart-table thead{
+  font-size: 14px;
+  font-family: MicrosoftYaHei-Bold, MicrosoftYaHei;
+  font-weight: bold;
+  color: #202020;
+  line-height: 22px;
+}
+.chart-table tbody{
+  font-size: 14px;
+  font-family: MicrosoftYaHei;
+  color: #202020;
+  line-height: 22px;
+}
+.chart-table-td{
+  display: flex;
+}
+.span1{
+  width: 16px;
+  height: 16px;
+  background: #00C18F;
+  border-radius: 8px;
+  margin-top: 3px;
+  margin-right: 5px;
+}
+.span2{
+  width: 16px;
+  height: 16px;
+  background: #C4E8DF;
+  border-radius: 8px;
+  margin-top: 3px;
+  margin-right: 5px;
+}
+.span3{
+  width: 16px;
+  height: 16px;
+  background: #FA8D4E;
+  border-radius: 8px;
+  margin-top: 3px;
+  margin-right: 5px;
+}
+.span4{
+  width: 16px;
+  height: 16px;
+  background: #FE3838;
+  border-radius: 8px;
+  margin-top: 3px;
+  margin-right: 5px;
+}
+
+.disable-span{
+  width: 98px;
+  height: 22px;
+  font-size: 14px;
+  font-family: MicrosoftYaHei;
+  color: #C2C2C2;
+  line-height: 22px;
+}
+.callback-img-style {
+  width: 20px;
+  height: 50px;
+  line-height: 50px;
+}
+.callback-img{
+  width: 20px;
+  height: 20px;
+  background: url('@/assets/callback.png') 100% no-repeat;
+  background-size: 100% 100%;
+  line-height: 50px;
+}
+.hintRed-img-style {
+  width: 20px;
+  height: 50px;
+  line-height: 50px;
+}
+.hintRed-img{
+  width: 20px;
+  height: 20px;
+  background: url('@/assets/hint-red.png') 100% no-repeat;
+  background-size: 100% 100%;
+  line-height: 50px;
+}
+.dis {
+  display: flex;
+}
+
+.callback-text{
+  width: 30px;
+  height: 22px;
+  font-size: 14px;
+  font-family: MicrosoftYaHei;
+  color: #4381E5;
+  line-height: 22px;
+}
+
+.float-right{
+  float: right;
+}
+
+.height30 {
+  height: 30px;
+}
+.release {
+  width: 200px;
+  height: 32px;
+  background: #4381E5;
+  border-radius: 4px;
+  float: right;
+}
